@@ -6,6 +6,7 @@
 
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/CQU-ADHRI-Lab/TOI)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/CQU-ADHRI-Lab/TOI/blob/main/LICENSE)
+
 <img src="figures/results.gif" width="960px">
 </div>
 
