@@ -3,7 +3,7 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <div align="center">
-
+[![arXiv](https://img.shields.io/badge/Arxiv-2411.17152-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.17152)
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/CQU-ADHRI-Lab/TOI)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/CQU-ADHRI-Lab/TOI/blob/main/LICENSE)
 
